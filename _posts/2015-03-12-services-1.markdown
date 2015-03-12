@@ -1,0 +1,12 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: 完美韩服地图<br>地狱、南蛮
+description: |
+  <p class="lead">原汁原味地保持盛大游戏界面的同时，
+  完美引入韩服几乎所有地图和怪物，让广大玩家在享受经
+  典盛大操作界面的同时，能够前所未有地体验韩服游戏的
+  畅快感！</p>
+
+---

@@ -1,0 +1,10 @@
+---
+layout: default
+img: phones.png
+category: Services
+title: 装备镶嵌系统<br>宝石升级
+description: |
+  <p class="lead">增加镶嵌系统，各大怪物掉落镶嵌的宝石。
+  比起精炼大师可以对装备进行打孔，每件装备可以打五个孔。</p>
+
+---
