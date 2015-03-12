@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: 装备镶嵌系统<br>宝石升级
 description: |
   <p class="lead">This template features the 'Lato' font,
   part of the <a target="_blank" href="http://www.google.com/fonts">Google

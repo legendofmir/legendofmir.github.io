@@ -2,13 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description."
+url: http://legendofmir.github.io
+title: 仿韩传奇
+email: hellobinge@sina.cn
+description: > # "
+  仿韩传奇，装备隐藏属性，亿万传奇玩家的经典回忆！
+  "
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -23,9 +22,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+  - title: 客户端下载
+    url: https://www.baidu.com
+  - title: 登陆器下载
+    url: https://www.baidu.com
+  - title: 官方交流群
+    url: https://www.baidu.com
